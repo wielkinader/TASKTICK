@@ -22,7 +22,7 @@ def add():
 def help():
     print("\nThe 'add' command allows you to create a new task")
     print("The 'tick' command allows you to tick off tasks")
-    print("The 'progress' command allows you to check the progress of any ongoing class")
+    print("The 'progress' command allows you to check the progress of any ongoing task")
     print("The 'clear' command allows you to remove all completed tasks from the database\n")
     print(Fore.RESET)
 
